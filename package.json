@@ -1,0 +1,30 @@
+{
+  "name": "portfoliowebsite",
+  "version": "1.0.0",
+  "description": "Websnpite for my portfolio projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pacnatz/PortfolioWebsite.git"
+  },
+  "keywords": [
+    "[\"portfolio\"",
+    "\"website\"",
+    "\"frontend\"",
+    "\"html\"",
+    "\"css\"",
+    "\"javascript\"]"
+  ],
+  "author": "Nhat Chu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pacnatz/PortfolioWebsite/issues"
+  },
+  "homepage": "https://github.com/Pacnatz/PortfolioWebsite#readme",
+  "devDependencies": {
+    "webpack": "^5.102.1"
+  }
+}
