@@ -2,3 +2,13 @@
   padding: 0px 240px;
   background-color: #000;
 }
+
+@media screen and (max-width: 1440px) {
+  .page {
+    padding: 0px 150px;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  /* TODO : ADD MOBILE VIEW */
+}

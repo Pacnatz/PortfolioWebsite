@@ -1,8 +1,7 @@
 .nav__links {
-  max-width: 1440px;
+  width: 100%;
   padding: 24px 0px;
   margin: 0;
-  font-family: "CrimsonText", Arial, Helvetica, sans-serif;
   font-weight: 800;
   font-size: 24px;
   display: flex;
