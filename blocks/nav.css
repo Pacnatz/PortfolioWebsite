@@ -1,0 +1,18 @@
+.nav__links {
+  max-width: 1440px;
+  padding: 24px 0px;
+  margin: 0;
+  font-family: "CrimsonText", Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 24px;
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  border-radius: 8px;
+  background-color: #292929;
+}
+
+.nav__link {
+  text-decoration: none;
+  color: gray;
+}
