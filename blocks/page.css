@@ -1,14 +1,15 @@
 .page {
-  padding: 0px 240px;
-  background-color: #000;
+  height: 110vh; /* temp */
+  padding: 0px 20px;
+  background-color: black;
 }
 
-@media screen and (max-width: 1440px) {
-  .page {
-    padding: 0px 150px;
-  }
+/* Tablet */
+@media screen and (min-width: 767px) {
 }
-
-@media screen and (max-width: 770px) {
-  /* TODO : ADD MOBILE VIEW */
+/* Small Laptop */
+@media screen and (min-width: 1024px) {
+}
+/* Big Laptop */
+@media screen and (min-width: 1440px) {
 }

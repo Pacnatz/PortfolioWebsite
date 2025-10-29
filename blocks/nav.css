@@ -1,9 +1,9 @@
 .nav__links {
   width: 100%;
-  padding: 24px 0px;
+  padding: 12px 0px;
   margin: 0;
   font-weight: 800;
-  font-size: 24px;
+  font-size: 12px;
   display: flex;
   justify-content: space-around;
   list-style-type: none;
